@@ -20,5 +20,4 @@ mongoose
 	})
 	.catch(() => {
 		console.log("DB ERROR");
-		console.log("DB ERROR");
 	});
